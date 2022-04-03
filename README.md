@@ -2,15 +2,7 @@
 ### Welcome 👋
 #### Sorry guys, the code is not updated! Don't use my code in your project files! follow the project notes.
 
-To get started with this course, clone this repo and follow these commands:
-
-1. cd into the `app` folder
-2. Run `npm install` at the root of your directory
-3. Run `npm run start` to start the project
-4. Start coding!
-
-
-# Metaplex error fix
+## Metaplex error fix
 
 clone the metaplex repo `git clone https://github.com/metaplex-foundation/metaplex.git`
 run `sudo yarn install --cwd ~/metaplex/js/` (I'm working on WSL2)
@@ -41,4 +33,4 @@ ended at: 2022-01-06T12:04:38.862Z. time taken: 00:00:43`
 
 then run this command  `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/devnet.json` to verify your nfts are uploaded or not
 
-that's it! the rest works! you can use the files provided and follow up the project nodes properly!
+that's it! the rest works! follow up the project nodes properly!
