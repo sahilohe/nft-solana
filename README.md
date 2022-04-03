@@ -7,8 +7,8 @@ To get started with this course, clone this repo and follow these commands:
 3. Run `npm run start` to start the project
 4. Start coding!
 
-# errors I faced during the project
-1> Metaplex
+
+# Metaplex error fix
 
 clone the metaplex repo `git clone -b v1.1.1 https://github.com/metaplex-foundation/metaplex.git`
 run `yarn install --cwd ~/metaplex/js/`
