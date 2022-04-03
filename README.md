@@ -10,7 +10,7 @@ To get started with this course, clone this repo and follow these commands:
 
 # Metaplex error fix
 
-clone the metaplex repo `git clone -b v1.1.1 https://github.com/metaplex-foundation/metaplex.git`
+clone the metaplex repo `git clone https://github.com/metaplex-foundation/metaplex.git`
 run `sudo yarn install --cwd ~/metaplex/js/` (I'm working on WSL2)
 then run `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts --version`. this command should spit out `0.0.2`
 
