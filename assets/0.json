@@ -1,0 +1,19 @@
+{
+    "name": "Charmander",
+    "symbol": "#004",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6RQUhxmDnPPU9q21L5Hg8QtnW398Jd9DvH9eyJa88BX4",
+          "share": 100
+        }
+      ]
+    }
+  }
