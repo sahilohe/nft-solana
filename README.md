@@ -1,5 +1,7 @@
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
+#### Sorry guys, the code is not updated! Don't use my code in your project files! follow the project notes.
+
 To get started with this course, clone this repo and follow these commands:
 
 1. cd into the `app` folder
