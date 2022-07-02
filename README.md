@@ -33,4 +33,4 @@ ended at: 2022-01-06T12:04:38.862Z. time taken: 00:00:43`
 
 then run this command  `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/devnet.json` to verify your nfts are uploaded or not
 
-that's it! the rest works! follow up the project nodes properly!
+that's it! the rest works! follow up the project notes properly!
