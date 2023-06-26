@@ -15,7 +15,8 @@ from the root of the project folder, where you have put the assests folder.
 
 you will set similar result 
 
-`wallet public key: A1AfJpXEiqiP3twp6CdZCWixpyx6p8E26zej4TNQ12GT
+```
+wallet public key: A1AfJpXEiqiP3twp6CdZCWixpyx6p8E26zej4TNQ12GT
 WARNING: The "arweave" storage option will be going away soon. Please migrate to arweave-bundle or arweave-sol for mainnet.
 
 Beginning the upload for 3 (img+json) pairs
@@ -29,7 +30,8 @@ Processing asset: 1
 Processing asset: 2
 Writing indices 0-2
 Done. Successful = true.
-ended at: 2022-01-06T12:04:38.862Z. time taken: 00:00:43`
+ended at: 2022-01-06T12:04:38.862Z. time taken: 00:00:43
+```
 
 then run this command  `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/devnet.json` to verify your nfts are uploaded or not
 
